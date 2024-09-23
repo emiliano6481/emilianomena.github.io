@@ -98,7 +98,6 @@
             <h2>Contacto</h2>
             <p>¿Tienes alguna pregunta o necesitas más información? No dudes en ponerte en contacto con nosotros:</p>
             <p>Email: <a href="Vallacap648@gmail.com">Vallacap648@gmail.com</a></p>
-            <p>Teléfono: +52 985 112 21760</p>
         </section>
     </div>
     <footer>
